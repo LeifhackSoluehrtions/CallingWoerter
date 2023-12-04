@@ -19,7 +19,7 @@ class Program
             .Select(i => Task.Run(() => GetAndPrintRandomWord(apiUrl)))
             .ToArray();
 
-        // Wie KLange
+        // Wie Oft glaub ich
         await Task.WhenAll(tasks);
 
         // Damit nicht zu
