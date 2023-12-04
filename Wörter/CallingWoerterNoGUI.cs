@@ -14,12 +14,12 @@ class Program
         string time = Console.ReadLine();
         int wieOft = int.Parse(time);
 
-        // Liste
+        // Wie oft + multi threat glaub ich
         var tasks = Enumerable.Range(0, wieOft)
             .Select(i => Task.Run(() => GetAndPrintRandomWord(apiUrl)))
             .ToArray();
 
-        // Wie Oft glaub ich
+        // Bro keine ahnung stand auf stackoverflow
         await Task.WhenAll(tasks);
 
         // Damit nicht zu
