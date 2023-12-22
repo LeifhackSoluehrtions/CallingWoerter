@@ -1,0 +1,7 @@
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\obj\Debug\WordApiCall.csproj.CoreCompileInputs.cache
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\bin\Debug\WordApiCall.exe.config
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\bin\Debug\WordApiCall.exe
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\bin\Debug\WordApiCall.pdb
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\obj\Debug\WordApiCall.exe
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\obj\Debug\WordApiCall.pdb
+C:\Users\Leif\Documents\Coding\C#\WordApiCall\WordApiCall\obj\Debug\WordApiCall.csproj.AssemblyReference.cache
